@@ -1,0 +1,18 @@
+{
+  "theme_color": "#065f46",
+  "background_color": "#f9fafb",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/index.html",
+  "name": "बकरी पालन वैज्ञानिक टूलकिट",
+  "short_name": "बकरी पालन",
+  "description": "आधुनिक और वैज्ञानिक बकरी पालन मैनेजमेंट प्लेटफॉर्म",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1996/1996490.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
