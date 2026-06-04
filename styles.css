@@ -1336,3 +1336,10 @@ footer {
 body {
     top: 0px !important;
 }
+
+@media (max-width: 576px) {
+    #google_translate_element {
+        transform: scale(0.85);
+        transform-origin: right center;
+    }
+}
